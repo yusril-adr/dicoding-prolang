@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProLang</string>
+    <string name="lang_name">Javascript</string>
+    <string name="lang_created">Created On : 2021</string>
+    <string name="button_fav">Favorite</string>
+    <string name="button_share">Share</string>
+    <string name="lang_logo_description">Language Logo</string>
+    <string name="menu_about">About</string>
+    <string name="menu_all_list">All List</string>
+    <string name="menu_favorite_list">Favorite List</string>
+    <string name="about_name">Yusril Adriansyah Putra</string>
+    <string name="about_email">yusril_putra56@yahoo.co.id</string>
+    <string name="about_header">About Me</string>
+    <string name="about_description">
+        Im a college student at State University of Surabaya. I love learning about the world of technology especially with javascript. My programming experience now is approximately 1 year.
+    </string>
+    <string name="about_btn_visit">Visit my website</string>
+</resources>
